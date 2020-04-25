@@ -51,7 +51,7 @@ section1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: justify;
     background-size: cover;
     /* Add this line */
     background-position: center center;
@@ -87,6 +87,18 @@ section2 {
 footer {
     text-align: center;
     padding: 50px;
+}
+
+#about h2 {
+    text-align: center;
+}
+
+#about h3 {
+    text-align: center;
+}
+
+#about h5 {
+    text-align: center;
 }
 
 #hero h1 {
