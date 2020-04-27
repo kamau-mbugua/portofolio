@@ -84,6 +84,10 @@ section2 {
     border-radius: 50%;
 }
 
+#hero a {
+    align-items: center;
+}
+
 footer {
     text-align: center;
     padding: 50px;
